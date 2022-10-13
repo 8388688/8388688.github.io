@@ -14,7 +14,7 @@
 
 主要在用python
 
-![](life_is_short.)
+![](all_files/e311f59351e84febb9b58ba00ead21f6.png)
 
 ⚪。
 
