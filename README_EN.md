@@ -4,9 +4,9 @@
 
 [中文](README.md)
 
-I am from the whole universe - the galaxy - 太阳系——地球——亚洲——中国的一名“初衷”生，我的初衷是~~好好学习，未来研发新一代的量子计算机，为国家建设做贡献~~
+I am from the whole universe - the galaxy - the sun - earth - Asia - China. I'm an "original intention" student. My original intention is ~~study hard and develop a new generation of quantum computers in the future to contribute to national construction~~
 
-喜欢游戏和编程，喜欢创造，没事的时候也会胡思乱想。
+My favorite projection is playing games and programming, I like creative, and I often tkink something neaningless in my spare time, so I usually get confused.
 
 讨厌的事：规章制度、油店老板、**郭\*源**。
 
