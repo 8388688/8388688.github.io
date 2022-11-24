@@ -19,9 +19,9 @@ I mainly use in python.
 ⚪。
 
 -----
-最新动态
+Activities
 
-- [2022-10-5]simple_tools 更新至 v4.1-pre1
+- \[2022-10-5\]simple_tools 更新至 v4.1-pre1
 
 -----
 以下是链接
@@ -30,11 +30,11 @@ I mainly use in python.
 
 + [用户界面](https://github.com/8388688/)
 
-工具包:
+Package of tools:
 
 + [simple_tools - 自制的python工具集](https://github.com/8388688/simple_tools)
 
 -----
-F4F 底下没有东西
+F4F nothing in bottom.
 
-底下确实没有东西
+Nothing in bottom, I said again.
