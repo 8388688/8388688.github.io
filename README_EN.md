@@ -32,7 +32,7 @@ I mainly use in python.
 
 #### Package of tools:
 
-+ [simple_tools - the python packageby my hand](https://github.com/8388688/simple_tools)
++ [simple_tools - the python package by my hand](https://github.com/8388688/simple_tools)
 
 -----
 #### F4F nothing in bottom.
