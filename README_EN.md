@@ -8,11 +8,11 @@ I am from the whole universe - the galaxy - the sun - earth - Asia - China. I'm 
 
 My favorite projection is playing games and programming, I like creative, and I often tkink something neaningless in my spare time, so I usually get confused.
 
-讨厌的事：规章制度、油店老板、**郭\*源**。
+Hatred: rules, oil boss、the girl named Guo。
 
-> *讨厌学校的规章制度，但没有到无法容忍的程度.*
+> *Hate school rules, but not to the point of intolerance. *
 
-主要在用python
+I mainly use in python.
 
 ![](all_files/e311f59351e84febb9b58ba00ead21f6.png)
 
