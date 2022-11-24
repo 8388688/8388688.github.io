@@ -26,13 +26,13 @@ I mainly use in python.
 -----
 #### Links
 
-+ [本站展示界面](https://8388688.github.io/)
++ [display inferface](https://8388688.github.io/)
 
-+ [用户界面](https://github.com/8388688/)
++ [my profile](https://github.com/8388688/)
 
 #### Package of tools:
 
-+ [simple_tools - 自制的python工具集](https://github.com/8388688/simple_tools)
++ [simple_tools - the python packageby my hand](https://github.com/8388688/simple_tools)
 
 -----
 #### F4F nothing in bottom.
