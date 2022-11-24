@@ -8,7 +8,7 @@ I am from the whole universe - galaxy - the sun - the earth - the Asia - China. 
 
 My favorite projection is playing games and programming, I like creative, and I often tkink something neaningless in my spare time, so I usually get confused.
 
-Hatred: rules, oil boss、the girl named Guo。
+Hatred: rules, oil boss、the girl named Guo\*yuan。
 
 > *Hate school rules, but not to the point of intolerance. *
 
