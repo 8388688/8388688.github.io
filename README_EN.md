@@ -21,7 +21,7 @@ I mainly use in python.
 -----
 #### Activities
 
-- \[2022-10-5\]simple_tools 更新至 v4.1-pre1
+- \[2022-10-5\]simple_tools updated to v4.1-pre1
 
 -----
 #### Links
