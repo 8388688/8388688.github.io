@@ -16,10 +16,10 @@
 
 
 ## English
+所有 English 全都是人工翻译, 没有机器的半点掺和.
 
 8388688 has been in program since Jan.2020. But it's still a beginner.
 If you said that he liked it, and it was true that when he was free, he used to compile some little programs that seemed dull but at the time he felt interesting.
 If you said that he doesn't like it, and it was also ture that he would rather give up some difficult code than explore deeper.~~(giving up)~~
 
 
-所有 English 全都是人工翻译, 没有机器的半点掺和.
