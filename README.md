@@ -30,7 +30,8 @@
 
 + [用户界面](https://github.com/8388688/)
 
-#### 工具包:
+#### 工具包
+~~也是唯一能拿的出手的东西~~
 
 + [simple_tools - 自制的python工具集](https://github.com/8388688/simple_tools)
 
