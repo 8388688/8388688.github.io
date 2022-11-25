@@ -16,8 +16,6 @@ I mainly use in python.
 
 ![](all_files/e311f59351e84febb9b58ba00ead21f6.png)
 
-⚪。
-
 -----
 #### Activities
 
