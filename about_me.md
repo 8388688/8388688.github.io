@@ -22,3 +22,4 @@ If you said that he liked it, and it was true that when he was free, he used to 
 If you said that he doesn't like it, and it was also ture that he would rather give up some difficult code than explore deeper.~~(giving up)~~
 
 
+所有 English 全都是人工翻译, 没有机器的半点掺和.
