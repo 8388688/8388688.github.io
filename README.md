@@ -1,5 +1,7 @@
 # 8388688.github.io
 
+**此条目仍在建设中**
+
 **Hello! I'm 8388688.**
 
 [English](README_EN.md)
