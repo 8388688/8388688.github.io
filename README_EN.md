@@ -1,5 +1,7 @@
 # 8388688.github.io
 
+**This code is still building. . .**
+
 **Hello! I'm 8388688.**
 
 [中文](README.md)
