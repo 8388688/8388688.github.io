@@ -6,7 +6,7 @@
 
 [中文](README.md)
 
-I am from the whole universe - galaxy - the sun - the earth - the Asia - China. I'm an "original intention" student. My original intention is ~~study hard and develop a new generation of quantum computers in the future to contribute to national construction~~
+I am from the whole universe - galaxy - the sun - the earth - the Asia - China. I'm an "original intention" student[1]. My original intention is ~~study hard and develop a new generation of quantum computers in the future to contribute to national construction~~
 
 My favorite projection is playing games and programming, I like creative, and I often tkink something neaningless in my spare time, so I usually get confused.
 
@@ -38,3 +38,7 @@ I mainly use in python.
 #### F4F nothing in bottom.
 
 Nothing in bottom, I said again.
+
+#### additional
+
+[1]: In Chinese, the "original intention" and the "junior high school" have the same pronunciation.
