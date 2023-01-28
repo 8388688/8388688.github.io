@@ -10,7 +10,7 @@ if ((($_FILES["file"]["type"] == "image/gif")
 || ($_FILES["file"]["type"] == "image/pjpeg")
 || ($_FILES["file"]["type"] == "image/x-png")
 || ($_FILES["file"]["type"] == "image/png"))
-&& ($_FILES["file"]["size"] < 204800)   // 小于 200 kb
+&& ($_FILES["file"]["size"] < 1048576)   // 小于 1 mb
 && in_array($extension, $allowedExts))
 {
 	if ($_FILES["file"]["error"] > 0)
